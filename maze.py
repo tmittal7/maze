@@ -262,4 +262,3 @@ class Maze:
         # Print solution
         for s in visual:
             print("".join(s))
-            print("done")
